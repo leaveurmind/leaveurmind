@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @leaveurmind
-- 👀 I’m interested in backend python technologies(work with api, databases and so on
-- 🌱 I’m currently learning python, sql
+- 👀 I’m interested in backend python technologies(work with api, databases and so on)
+  I have knowledge of python, sql
+- 🌱 I’m currently learning flask for web development
 - 💞️ I’m looking to collaborate on any python projects
 - 📫 How to reach me - per email: smuz1337@icloud.com.
 
